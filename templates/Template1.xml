@@ -1,0 +1,5 @@
+<XML>
+    This is an example to change a single variable namded nanme to generate Hello {{name}}
+    and anoter {{var2}} is here to enjor {{var3}}
+    <ID> **INCREMENTAL COUNTER** </ID> <Name> **NAME** </Name> <Phone> **PHONE** </Phone>    
+</XML>
